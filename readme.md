@@ -37,3 +37,6 @@ Runs the full pipeline: generate trajectories, save and reload them, train the I
 
 
 ## References 
+- [ISOKANN: Invariant subspaces of Koopman operators learned by a neural network](https://pubs.aip.org/aip/jcp/article-abstract/153/11/114109/199583/ISOKANN-Invariant-subspaces-of-Koopman-operators?redirectedFrom=fulltext)
+- [ISOKANN - Julia Implementation](https://github.com/axsk/ISOKANN.jl)
+
