@@ -1,4 +1,4 @@
-# ISOKANN
+# ISOKANN - Torch Implementation 
 
 ## Theory
 
